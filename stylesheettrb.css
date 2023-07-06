@@ -1,0 +1,84 @@
+body {
+    margin: 0px 5px;
+    background-color: black;
+    
+}
+
+
+h2 {
+    font-size:15px;
+    text-align: center;
+    color: white;
+    
+    position: absolute;
+    top:55px;
+    right:840px;
+    
+}
+div {
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top:160px;
+    right:800px;
+    color: white;
+    border-left: 10px groove rgba(136, 0, 255, 0.867);
+    
+    
+}
+#start {
+    border-radius: 20px;
+    border-left:5px groove rgba(61, 74, 255, 0.781);
+    border-radius:5px;
+    border-right:5px groove rgba(61, 74, 255, 0.781);
+    padding-right: 70px;
+    
+
+
+}
+#middle {
+    border-radius: 20px;
+    border-left:5px groove rgba(61, 74, 255, 0.781);
+    border-right:5px groove rgba(61, 74, 255, 0.781);
+
+}
+#ending {
+    border-radius: 20px;
+    border-left:5px groove rgba(61, 74, 255, 0.781);
+    border-right:5px groove rgba(61, 74, 255, 0.781);
+
+}
+section {
+    width:650px;
+    position: absolute;
+    top:350px;
+    right:450px;
+    line-height: 25px;
+    color: white;
+    padding-right: 30px;
+    border-radius:20px ;
+    border-right: 10px groove rgba(131, 227, 240, 0.829);
+}
+h1 {
+    text-align: center;
+    
+    color:rgb(108, 48, 205);
+    font-size:35px;
+    font-style: oblique;
+    border-bottom: 5px solid rgba(136, 0, 255, 0.867);
+    width: 300px;
+    height: 35px;
+    position: absolute;
+    top:0px;
+    right:810px;
+}
+#books {
+    
+   
+    font-size: 15px;
+    border-radius:20px;
+    border-left:5px groove rgba(232, 61, 255, 0.952);
+    padding: 30px;
+
+}
+
